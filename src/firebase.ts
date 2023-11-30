@@ -1,7 +1,7 @@
-// import { initializeApp } from "../node_modules/firebase/app";
-import { getAuth } from '../node_modules/firebase/auth';
-import { getStorage } from "../node_modules/firebase/storage";
-import { getFirestore } from '../node_modules/firebase/firestore';
+import { initializeApp } from "firebase/app";
+import { getAuth } from 'firebase/auth';
+import { getStorage } from "firebase/storage";
+import { getFirestore } from 'firebase/firestore';
 
 
 const firebaseConfig = {
